@@ -5,3 +5,5 @@ console.log("first java script");
 // Document.getEle("Message").innerHTML="hello sit";
 document.getElementById("Message").innerHTML="fghjk";
 
+
+
